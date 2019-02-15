@@ -19,7 +19,7 @@
     "list.hoverBackground": "#dbdde0",
     "list.inactiveSelectionBackground": "#c7cbd1",
     "editorIndentGuide.background": "#eaeaea",
-    "list.activeSelectionBackground": "#dfe4e7"
+    "list.activeSelectionBackground": "#c7cbd1"
   },
   "tokenColors": [
     {
