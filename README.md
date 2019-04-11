@@ -1,14 +1,19 @@
-# Brackets Light Pro
+# Brackets Light Pro --improve
 
-[![install](https://vsmarketplacebadge.apphb.com/installs/eryouhao.brackets-light-pro.svg?style=flat-flat)](https://marketplace.visualstudio.com/items?itemName=eryouhao.brackets-light-pro)
+## Origin
 
-This is a theme for VSCode basic Brackets Light and more beautiful.
+使用原版请戳[这里](https://github.com/EryouHao/brackets-light-pro)
 
-If you like it or you have other idea, welcome to my github to write issues PR and star.
+## Desc
 
-github: https://github.com/EryouHao/brackets-light-pro
+魔改版`brackets-light-pro`, 主要是对`侧边栏的颜色`做了改进, 参考([issue#3](https://github.com/EryouHao/brackets-light-pro/issues/3))
 
-## Screenshot
-![Brackets Light Pro](https://raw.githubusercontent.com/EryouHao/brackets-light-pro/master/static/screenshot.png)
+## Usage
+
+1. [Releases](https://github.com/ddzy/brackets-light-pro/releases)页下载插件
+2. 解压后得到`.vsix`
+3. VS Code中按如下使用
+   ![usage](./static/usage.gif)
+
 
 **Enjoy!**
